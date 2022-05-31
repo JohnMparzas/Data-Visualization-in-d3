@@ -1,7 +1,3 @@
-# Γιάννης Μπάρζας 2765
-# Χρίστος Γκάρτζιος 2666
-# Γρηγόριος Μακρής 3022
-
 
 ## Description
 This project implements a  query selection of countries,indicators,year range type of group and type of graph from user 
